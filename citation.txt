@@ -1,0 +1,7 @@
+@inproceedings{REPO082,
+    author = "Gorter, Floris and Koning, Koen and Bos, Herbert and Giuffrida, Cristiano",
+    booktitle = "Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security",
+    pages = "1307--1322",
+    title = "{DangZero: Efficient Use-After-Free Detection via Direct Page Table Access}",
+    year = "2022"
+}
